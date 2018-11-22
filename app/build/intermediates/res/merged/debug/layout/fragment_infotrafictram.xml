@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/list_item_style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.getgpslocation.fragment.Infotrafictram">
+<LinearLayout
+    android:layout_marginLeft="10dp"
+    android:paddingTop="70dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/t"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/circle1"
+        android:layout_marginLeft="10dp"/>
+</LinearLayout>
+    <TextView
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cascade1"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/direction1"/>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sidi Djilali"
+        android:id="@+id/direction2"/>
+<LinearLayout
+    android:layout_marginTop="30dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Derniere mise a jour - "/>
+    <TextView
+   android:layout_marginLeft="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/datemaj2"/>
+</LinearLayout>
+
+    <ListView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:id="@+id/info1"
+        android:layout_height="match_parent">
+
+    </ListView>
+
+</LinearLayout>

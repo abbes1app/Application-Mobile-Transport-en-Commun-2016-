@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.getgpslocation.fragment.Ligne1Tram"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/main_content61"/>
+
+
+    <HorizontalScrollView
+        android:id="@+id/hScrollView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:scrollbars="none" >
+
+
+
+    </HorizontalScrollView>
+
+    <android.support.v4.app.FragmentTabHost
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v4.view.ViewPager
+
+                android:id="@+id/pager8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+
+            </android.support.v4.view.ViewPager>
+            <FrameLayout
+                android:id="@+id/tabcontent8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1" >
+
+
+
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </android.support.v4.app.FragmentTabHost>
+
+
+
+</LinearLayout>

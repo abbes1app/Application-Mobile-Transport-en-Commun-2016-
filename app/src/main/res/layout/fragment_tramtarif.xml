@@ -1,0 +1,100 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="150dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+
+    tools:context="com.example.getgpslocation.fragment.Tramtarif">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Les tarifs du tramway"     android:textStyle="bold"
+        android:id="@+id/textView"
+        android:textSize="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffff" />
+<RelativeLayout
+    android:layout_marginTop="50dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#000000">
+
+    <TextView
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Des tickets pour TOUS:"   android:textStyle="bold"
+        android:id="@+id/textview2"
+        android:password="false"
+        android:textColor="#ffffff"
+        android:background="#000000"
+        android:textSize="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Textview6"
+        android:background="#000000"
+        android:layout_below="@+id/textview2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Le carnet de 10 tickets coute 320 DA, il permet d&apos;effectuer 10 voyages en aller simple tout en beneficiant de 20% de réduction sur le prix du ticket.
+   Le ticket un voyage coute 40DA, il permet d&apos;effectuer un seul voyage en allez simple sur toute la ligne du tramway  "
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abonnement Tawassol Junior :"      android:textStyle="bold"
+        android:id="@+id/textView2"
+        android:background="#000000"
+        android:layout_below="@+id/Textview6"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffff"
+        android:textSize="24dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Un abonnement pour les moins de 25 ans  à 990 DA par mois(- 34 % sur le plein tarif). L'abonnement est proposé sous la forme d'une carte sans contact,personnalisée et rechargeable"
+        android:id="@+id/textView3"
+        android:background="#000000"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abonnement Tawassol senior :"     android:textStyle="bold"
+        android:id="@+id/textView4"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffff"
+        android:background="#000000"
+        android:textSize="24dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Un abonnement pour les plus de 60 ans à 830 DA(-45% sur leplein trafi).L&apos;abonnement est proposé sous la forme d&apos;une carte sans contact, personnalisée et rechargeable"
+        android:id="@+id/textView5"
+        android:background="#000000"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffff" />
+</RelativeLayout>
+
+</RelativeLayout>

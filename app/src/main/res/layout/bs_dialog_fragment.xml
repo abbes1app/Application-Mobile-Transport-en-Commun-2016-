@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.getgpslocation.MiBottomSheetDialogFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:padding="16dp"
+        android:id="@+id/markertitle" />
+
+   <ListView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:textAppearance="@style/TextAppearance.AppCompat.Title"
+       android:id="@+id/markhor">
+
+
+   </ListView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="abbes"
+        android:padding="70dp"
+        android:layout_margin="70dp"
+        android:visibility="invisible"/>
+
+</LinearLayout>

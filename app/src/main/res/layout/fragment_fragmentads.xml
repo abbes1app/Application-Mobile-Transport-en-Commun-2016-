@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.getgpslocation.fragment.fragmentads">
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:id="@+id/rstat">
+
+</RelativeLayout>
+
+
+    <Button
+        android:layout_marginTop="90dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ajouterstat"
+        android:text="Ajouter"
+        android:padding="30dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_margin="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/modifierstat"
+        android:text="Modifier"
+        android:padding="30dp"
+
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/supprimerstat"
+        android:text="Supprimer"
+        android:padding="30dp"
+
+        android:layout_gravity="center"/>
+
+</LinearLayout>

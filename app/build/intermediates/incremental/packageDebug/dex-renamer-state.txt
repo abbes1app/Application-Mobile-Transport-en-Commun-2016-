@@ -1,0 +1,7 @@
+#Thu Feb 16 13:10:26 CET 2017
+base.0=C\:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_933ae25188449295eddec4c1858ea14531bfb4a5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9f96575f0fcb8dc4c2a968f9dcd9f59de06a8233\\classes.dex
+base.1=C\:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9f96575f0fcb8dc4c2a968f9dcd9f59de06a8233
+file.0=C\:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_933ae25188449295eddec4c1858ea14531bfb4a5\\classes.dex

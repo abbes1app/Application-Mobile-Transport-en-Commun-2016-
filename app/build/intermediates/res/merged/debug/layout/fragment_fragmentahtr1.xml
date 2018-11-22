@@ -1,0 +1,28 @@
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.getgpslocation.fragment.fragmentahtr1">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:id="@+id/user49"
+        android:layout_height="wrap_content">
+
+    </RelativeLayout>
+    <TimePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/time2">
+
+    </TimePicker>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirmer"
+        android:id="@+id/confirmer14"/>
+
+</LinearLayout>

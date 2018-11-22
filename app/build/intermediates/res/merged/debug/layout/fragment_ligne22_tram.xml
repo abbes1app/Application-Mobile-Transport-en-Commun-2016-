@@ -1,0 +1,41 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+
+    tools:context="com.example.getgpslocation.fragment.Ligne22Tram">
+
+        <com.example.getgpslocation.fragment.TouchImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="#FFFFFF"
+
+            android:src="@drawable/t21"
+            android:id="@+id/T2"
+            />
+        <ListView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lv_sliding_menu00"
+            android:background="#FFFFFF"
+            android:choiceMode="singleChoice"
+
+            />
+
+        <ListView
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/lv_sliding_00"
+            android:background="#FFFFFF"
+            android:choiceMode="singleChoice"
+            />
+
+
+
+    </LinearLayout>

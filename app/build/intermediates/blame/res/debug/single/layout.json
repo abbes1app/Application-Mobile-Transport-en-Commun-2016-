@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_train.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_train.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment7.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragment7.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_2.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\item_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hororan.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\hororan.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tram_hor1.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_tram_hor1.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragmentahtr1.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragmentahtr1.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment8.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragment8.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tramlayout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\tramlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contenu.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\contenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reseaux.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\reseaux.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragmentht.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragmentht.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowlayout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragmenthtf.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragmenthtf.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_heuread2.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_heuread2.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infolayout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\infolayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_ligne.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\item_ligne.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bustarif.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_bustarif.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_train_hor.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_train_hor.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sliding_menu_1.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\item_sliding_menu_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment4.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment4.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_modifierads.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_modifierads.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment5.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragment5.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragmentadh.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragmentadh.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragmentahtr.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragmentahtr.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_traintarif.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_traintarif.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\infolayout1.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\infolayout1.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_modif2.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_modif2.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profilmp.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_profilmp.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragmenthb.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragmenthb.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tramtarif.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_tramtarif.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ajouterads.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_ajouterads.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_supprimerads.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_supprimerads.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_heuread.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_heuread.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sliding_me.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\item_sliding_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_modif1.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_modif1.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gmaps.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\gmaps.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_statbus.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_statbus.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ligne2_hor.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_ligne2_hor.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_stattram.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_stattram.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ligne2_tram.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_ligne2_tram.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment51.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragment51.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_item.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\drawer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragmentads.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragmentads.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ligne1_hor.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_ligne1_hor.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_trainheure.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_trainheure.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tram_hor.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_tram_hor.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_infotrafictram.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_infotrafictram.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ligne11_tram.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_ligne11_tram.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_modif3.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_modif3.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inscription.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\activity_inscription.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profil.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_text.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\item_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tramheure.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_tramheure.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main33.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\activity_main33.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ligne22_tram.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_ligne22_tram.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sliding_menu.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\item_sliding_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_heuread1.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_heuread1.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment3.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment3.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_dialog_fragment.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\bs_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_infotrafic2.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_infotrafic2.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment9.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragment9.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ligne1_tram.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_ligne1_tram.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bus_hor.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_bus_hor.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragmentadi.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragmentadi.xml"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment6.xml",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\layout\\fragment_fragment6.xml"
+    }
+]

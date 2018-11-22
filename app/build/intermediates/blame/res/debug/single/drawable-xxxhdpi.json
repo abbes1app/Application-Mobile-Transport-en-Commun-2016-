@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abbes1.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\abbes1.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\museum_100.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\museum_100.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\message.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\b.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\exo.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\exo.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\current.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\current.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\marker_small.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\marker_small.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bar_100.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\bar_100.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ligne15.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\ligne15.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\restaurant_100.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\restaurant_100.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\information.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\information.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\a2.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\a2.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\polyline96.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\polyline96.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\circled2.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\circled2.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abbes.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\abbes.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\stack.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\stack.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tram.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\tram.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\anomalie.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\anomalie.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\line.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\clock_96.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\clock_96.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\a4.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\a4.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\swap.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\swap.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\a1.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\a1.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\t.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\m1_page_001.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\m1_page_001.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ligne14.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\ligne14.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ligne17.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\ligne17.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\t1.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\t1.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home_96.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\home_96.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\question.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\question.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tram_96_.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\tram_96_.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\view.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\view.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\geo.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\geo.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\boite.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\boite.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\resto.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\resto.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\train_96.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\train_96.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\clock.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\priority.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\priority.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abbes12.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\debug\\res\\drawable-xxxhdpi\\abbes12.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\exoo.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\exoo.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\theatre_mask_100.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\theatre_mask_100.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\security.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\security.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tram_48.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\tram_48.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\circled.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\circled.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\sba.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\sba.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\train.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\train.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\user.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\o.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ligne13.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\ligne13.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\t21.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\t21.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\r.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ligne16.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\ligne16.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bus.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\bus.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bar.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\bar.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\circle1.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\circle1.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tram2.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\tram2.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\priorityy.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\priorityy.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\g.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\g.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\autour.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\autour.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\idea.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\idea.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\bus_96.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\bus_96.png"
+    },
+    {
+        "merged": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\a3.png",
+        "source": "C:\\Users\\amgsoft-pc\\AndroidStudioProjects\\GetGPSLocation5\\app\\src\\main\\res\\drawable-xxxhdpi\\a3.png"
+    }
+]

@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#FFFFFF"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.getgpslocation.fragment.Ligne11Tram"
+    android:weightSum="1">
+
+
+
+    <com.example.getgpslocation.fragment.TouchImageView
+    android:layout_width="wrap_content"
+    android:layout_height="239dp"
+    android:layout_marginTop="40dp"
+        android:background="#FFFFFF"
+
+        android:src="@drawable/m1_page_001"
+    android:id="@+id/T1"
+    />
+    <ListView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv_sliding_menu5"
+        android:background="#FFFFFF"
+        android:choiceMode="singleChoice"
+
+        />
+
+    <ListView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lv_sliding_1"
+        android:background="#FFFFFF"
+        android:choiceMode="singleChoice"
+         />
+
+
+
+</LinearLayout>

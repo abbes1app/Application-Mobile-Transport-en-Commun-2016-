@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.getgpslocation.fragment.fragment7">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:paddingTop="30dp"
+
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenu"
+        android:paddingBottom="5dp"
+        android:textSize="20dp"/>
+
+    <TextView
+
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A"
+        android:paddingBottom="5dp"
+        android:textSize="20dp"/>
+    <TextView
+
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sidi Bel Abbes"
+        android:paddingBottom="5dp"
+        android:textSize="20dp"/>
+
+    <com.example.getgpslocation.fragment.ExtendViewPager
+
+        android:id="@+id/view_pager5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

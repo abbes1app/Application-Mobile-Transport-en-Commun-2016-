@@ -1,0 +1,35 @@
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.getgpslocation.fragment.fragmenthtf">
+
+   <RelativeLayout
+       android:layout_width="wrap_content"
+       android:id="@+id/modifuse"
+       android:layout_height="wrap_content">
+
+   </RelativeLayout>
+
+
+    <EditText
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nom de la Station"
+        android:id="@+id/stnom"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Direction"
+        android:id="@+id/stdirection"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/hserach"
+        android:text="Modifier"/>
+</LinearLayout>
